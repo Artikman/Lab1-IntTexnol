@@ -1,0 +1,14 @@
+D:\Лабораторные работы\7 семестр\Шпетный\Lab1\Lab1.CLI\bin\Debug\netcoreapp2.1\Lab1.dll
+D:\Лабораторные работы\7 семестр\Шпетный\Lab1\Lab1.CLI\obj\Debug\netcoreapp2.1\Lab1.CLI.csprojAssemblyReference.cache
+D:\Лабораторные работы\7 семестр\Шпетный\Lab1\Lab1.CLI\obj\Debug\netcoreapp2.1\Lab1.CLI.csproj.CoreCompileInputs.cache
+D:\Лабораторные работы\7 семестр\Шпетный\Lab1\Lab1.CLI\obj\Debug\netcoreapp2.1\Lab1.CLI.AssemblyInfoInputs.cache
+D:\Лабораторные работы\7 семестр\Шпетный\Lab1\Lab1.CLI\obj\Debug\netcoreapp2.1\Lab1.CLI.AssemblyInfo.cs
+D:\Лабораторные работы\7 семестр\Шпетный\Lab1\Lab1.CLI\bin\Debug\netcoreapp2.1\Lab1.CLI.deps.json
+D:\Лабораторные работы\7 семестр\Шпетный\Lab1\Lab1.CLI\bin\Debug\netcoreapp2.1\Lab1.CLI.runtimeconfig.json
+D:\Лабораторные работы\7 семестр\Шпетный\Lab1\Lab1.CLI\bin\Debug\netcoreapp2.1\Lab1.CLI.runtimeconfig.dev.json
+D:\Лабораторные работы\7 семестр\Шпетный\Lab1\Lab1.CLI\bin\Debug\netcoreapp2.1\Lab1.CLI.dll
+D:\Лабораторные работы\7 семестр\Шпетный\Lab1\Lab1.CLI\bin\Debug\netcoreapp2.1\Lab1.CLI.pdb
+D:\Лабораторные работы\7 семестр\Шпетный\Lab1\Lab1.CLI\bin\Debug\netcoreapp2.1\Lab1.pdb
+D:\Лабораторные работы\7 семестр\Шпетный\Lab1\Lab1.CLI\obj\Debug\netcoreapp2.1\Lab1.CLI.csproj.CopyComplete
+D:\Лабораторные работы\7 семестр\Шпетный\Lab1\Lab1.CLI\obj\Debug\netcoreapp2.1\Lab1.CLI.dll
+D:\Лабораторные работы\7 семестр\Шпетный\Lab1\Lab1.CLI\obj\Debug\netcoreapp2.1\Lab1.CLI.pdb

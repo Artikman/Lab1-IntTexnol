@@ -1,0 +1,9 @@
+D:\Лабораторные работы\7 семестр\Шпетный\Lab1\Lab1\bin\Debug\netcoreapp2.1\Lab1.deps.json
+D:\Лабораторные работы\7 семестр\Шпетный\Lab1\Lab1\bin\Debug\netcoreapp2.1\Lab1.dll
+D:\Лабораторные работы\7 семестр\Шпетный\Lab1\Lab1\obj\Debug\netcoreapp2.1\Lab1.csprojAssemblyReference.cache
+D:\Лабораторные работы\7 семестр\Шпетный\Lab1\Lab1\obj\Debug\netcoreapp2.1\Lab1.csproj.CoreCompileInputs.cache
+D:\Лабораторные работы\7 семестр\Шпетный\Lab1\Lab1\obj\Debug\netcoreapp2.1\Lab1.AssemblyInfoInputs.cache
+D:\Лабораторные работы\7 семестр\Шпетный\Lab1\Lab1\obj\Debug\netcoreapp2.1\Lab1.AssemblyInfo.cs
+D:\Лабораторные работы\7 семестр\Шпетный\Lab1\Lab1\bin\Debug\netcoreapp2.1\Lab1.pdb
+D:\Лабораторные работы\7 семестр\Шпетный\Lab1\Lab1\obj\Debug\netcoreapp2.1\Lab1.dll
+D:\Лабораторные работы\7 семестр\Шпетный\Lab1\Lab1\obj\Debug\netcoreapp2.1\Lab1.pdb
