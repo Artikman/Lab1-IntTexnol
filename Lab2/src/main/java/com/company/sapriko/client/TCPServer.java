@@ -7,7 +7,7 @@ import java.net.Socket;
 /**
  * Обеспечивает работу программы в режиме сервера
  *
- * @author Саприко Артём, Дмитрий Лось
+ * @author Саприко Артём
  */
 public class TCPServer {
 
