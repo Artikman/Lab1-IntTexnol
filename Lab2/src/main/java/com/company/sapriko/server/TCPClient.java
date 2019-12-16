@@ -6,7 +6,7 @@ import java.net.Socket;
 /**
  * Обеспечивает работу программы в режиме клиента
  *
- * @author Саприко Артём, Лось Дмитрий
+ * @author Саприко Артём
  */
 public class TCPClient {
 
